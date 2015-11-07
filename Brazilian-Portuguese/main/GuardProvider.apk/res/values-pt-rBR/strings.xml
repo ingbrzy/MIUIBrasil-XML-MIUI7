@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="AVL">AVL</string>
+  <string name="DesAVL">AVL</string>
+  <string name="DesMi">Mi</string>
+  <string name="DesTencent">Tencent</string>
+  <string name="Mi">Mi</string>
+  <string name="Tencent">Tencent</string>
+  <string name="avl_dialog_header">"Este recurso criptografa e faz o upload da ID do seu dispositivo para os servidores da AVL (%s)."</string>
+  <string name="avl_dialog_policy">ver Política de Privacidade</string>
+  <string name="avl_dialog_title">"Política de Privacidade da AVL"</string>
+  <string name="menu_settings">Configurações</string>
+  <string name="tencent_dialog_cloudscan">Fazer upload e verificar nomes de apps e seus detalhes usando definições de vírus online.</string>
+  <string name="tencent_dialog_dbupdate">Atualizar definições automaticamente</string>
+  <string name="tencent_dialog_header">"Este recurso encripta e faz o upload da ID do dispositivo para os servidores da Tencent (%s)."</string>
+  <string name="tencent_dialog_policy">ver Política de Privacidade</string>
+  <string name="tencent_dialog_title">Política de Privacidade da Tencent</string>
+</resources>

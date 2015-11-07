@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="power_center_battery_day">
+    <item quantity="other">"%d dias "</item>
+    <item quantity="one">"%d dia "</item>
+  </plurals>
+  <plurals name="power_center_battery_hour">
+    <item quantity="other">"%d h "</item>
+    <item quantity="one">"%d h "</item>
+  </plurals>
+  <plurals name="power_center_battery_minute">
+    <item quantity="other">"%d min "</item>
+    <item quantity="one">"%d min "</item>
+  </plurals>
+  <plurals name="hints_auto_start_enable_title">
+    <item quantity="other">%d apps iniciam automaticamente</item>
+    <item quantity="one">%d app inicia automaticamente</item>
+  </plurals>
+  <plurals name="hints_auto_start_disable_title">
+    <item quantity="other">"%d apps proibidos de iniciar automaticamente"</item>
+    <item quantity="one">"%d app proibido de iniciar automaticamente"</item>
+  </plurals>
+  <plurals name="hints_apps_perm_count">
+    <item quantity="other">%d permissões</item>
+    <item quantity="one">%d permissão</item>
+  </plurals>
+  <plurals name="hints_permission_apps_count">
+    <item quantity="other">%d apps</item>
+    <item quantity="one">%d app</item>
+  </plurals>
+  <plurals name="hints_get_root_enable_title">
+    <item quantity="other">%d apps possuem acesso root</item>
+    <item quantity="one">%d app possui acesso root</item>
+  </plurals>
+  <plurals name="hints_get_root_disable_title">
+    <item quantity="other">"%d apps não possuem acesso root"</item>
+    <item quantity="one">"%d app não possui acesso root"</item>
+  </plurals>
+  <plurals name="summary_app_update">
+    <item quantity="other">Atualizações disponíveis para %d apps.</item>
+    <item quantity="one">Atualização disponível para %d app.</item>
+  </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="color_mode_labels">
+    <item>Preto e BrancoC</item>
+    <item>Colorido</item>
+  </string-array>
+  <string-array name="orientation_labels">
+    <item>Retrato</item>
+    <item>Paisagem</item>
+  </string-array>
+  <string-array name="page_options_labels">
+    <item>Tudo</item>
+    <item>Extensão</item>
+  </string-array>
+</resources>

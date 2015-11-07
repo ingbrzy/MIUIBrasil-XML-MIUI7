@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="slideshow_time_entries">
+    <item>5 minutos</item>
+    <item>15 minutos</item>
+    <item>30 minutos</item>
+    <item>1 hora</item>
+    <item>Ilimitado</item>
+  </string-array>
+  <string-array name="baby_sexy">
+    <item>Menino</item>
+    <item>Menina</item>
+  </string-array>
+  <string-array name="owner_relation">
+    <item>Pai</item>
+    <item>Mãe</item>
+    <item>Avô paterno</item>
+    <item>Avó paterna</item>
+    <item>Avô materno</item>
+    <item>Avó materna</item>
+  </string-array>
+</resources>

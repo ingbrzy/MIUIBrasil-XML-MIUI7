@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="app_name">Plugin do serviço de segurança</string>
+  <string name="app_not_installed_toast">"O app não está instalado no seu dispositivo."</string>
+  <string name="cancel_button">Cancelar</string>
+  <string name="main_toolbar_purchase">Recarregar</string>
+  <string name="miuishare_title_more">Mais</string>
+  <string name="miuishare_title_share">Compartilhar</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="month_report_activity_label">Relatório mensal</string>
+  <string name="month_report_click_reconnect_network">Repetir</string>
+  <string name="month_report_disconnect_tip">"Não foi possível conectar-se à rede"</string>
+  <string name="month_report_follow_service_negative">Não</string>
+  <string name="month_report_follow_service_positive">Seguir</string>
+  <string name="month_report_follow_service_summary">"Fique sempre atualizado com as novidades de segurança seguindo o perfil oficial de segurança da MIUI."</string>
+  <string name="month_report_follow_service_title">Atualizações de segurança</string>
+  <string name="month_report_history_activity_label">Histórico de relatório</string>
+  <string name="month_report_network_dialog_description">Permitir que o app se conecte à internet para obter o relatório de informações?</string>
+  <string name="month_report_network_dialog_positive">Permitir</string>
+  <string name="month_report_network_dialog_title">"Não é possível obter informações de relatório"</string>
+  <string name="month_report_result_share">Compartilhar</string>
+  <string name="month_report_share_img_fail">"Não foi possível compartilhar"</string>
+  <string name="month_report_share_loading">Só um segundo&#8230;</string>
+  <string name="month_report_warning_dialog_description">"Para visualizar o relatório mensal, habilite a esta opção nas Configurações do app Segurança."</string>
+  <string name="month_report_warning_dialog_positive">Ativar</string>
+  <string name="month_report_warning_dialog_title">Relatório mensal de segurança</string>
+  <string name="network_not_available">"Não foi possível conectar-se à rede"</string>
+  <string name="no_network_btn">Tentar novamente</string>
+  <string name="ok_button">OK</string>
+  <string name="open_browser">Abrir no navegador</string>
+  <string name="privacy_declare_dialog_title">Termos de Serviço</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Seui número de telefone e detalhes de operadora serão encriptados e enviados para os servidores da Mi para obter mais informações de opções de pacotes de dados."</string>
+  <string name="share">Compartilhar</string>
+  <string name="title_share_link">Compartilhar URL</string>
+  <string name="usage_sorted_loading_text">Só um segundo\u2026</string>
+</resources>

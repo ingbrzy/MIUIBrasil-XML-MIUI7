@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="android_ringtone_default_with_actual">Toque padrão (%1$s)</string>
+  <string name="android_ringtone_silent">Nenhum</string>
+  <string name="android_ringtone_unknown">Toque desconhecido</string>
+  <string name="cloud_state_disabled">Sincronização com a Mi Cloud desativada</string>
+  <string name="cloud_state_finished">Sincronizado com a Mi Cloud</string>
+  <string name="cloud_state_syncing">Sincronizado com a Mi Cloud</string>
+  <string name="default_name">Padrão</string>
+  <string name="device_hongmi">Redmi</string>
+  <string name="device_pad">Mi Pad</string>
+  <string name="device_xiaomi">Mi Phone</string>
+  <string name="group_name_contacts">Contatos</string>
+  <string name="group_name_coworkers">Colegas de trabalho</string>
+  <string name="group_name_family">Família</string>
+  <string name="group_name_friends">Amigos</string>
+  <string name="maml_component_customization_title">Configurações</string>
+  <string name="miui_device_name">Android</string>
+  <string name="no_notification_tips">Nenhuma notificação.</string>
+  <string name="presentation_payphone">Telefone público</string>
+  <string name="presentation_private">Número privado</string>
+  <string name="presentation_unknown">Número desconhecido</string>
+  <string name="resource_select">Selecionar</string>
+  <string name="yellow_page_module_sms_sent">SMS enviado</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Não é possível enviar SMS no modo Convidado"</string>
+  <string name="yellow_page_sms_send_failed">"Não foi possível enviar o SMS"</string>
+  <string name="yellow_page_sms_sending">Enviando&#8230;</string>
+  <string name="yellow_page_unable_send_sms">"Não foi possível enviar o SMS"</string>
+</resources>

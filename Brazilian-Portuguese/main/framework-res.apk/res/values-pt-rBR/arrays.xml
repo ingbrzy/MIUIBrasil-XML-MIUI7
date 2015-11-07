@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="emailAddressTypes">
+    <item>Residencial</item>
+    <item>Trabalho</item>
+    <item>Outros</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="imProtocols">
+    <item>AIM</item>
+    <item>Windows Live</item>
+    <item>Yahoo</item>
+    <item>Skype</item>
+    <item>QQ</item>
+    <item>Google Talk</item>
+    <item>ICQ</item>
+    <item>Jabber</item>
+  </string-array>
+  <string-array name="organizationTypes">
+    <item>Trabalho</item>
+    <item>Outros</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="phoneTypes">
+    <item>Residencial</item>
+    <item>Celular</item>
+    <item>Trabalho</item>
+    <item>Fax do trabalho</item>
+    <item>Fax doméstico</item>
+    <item>Pager</item>
+    <item>Outros</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+    <item>Residencial</item>
+    <item>Trabalho</item>
+    <item>Outros</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Residencial</item>
+    <item>Trabalho</item>
+    <item>Outros</item>
+    <item>Personalizado</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item>Tentando acessar sua localização</item>
+    <item>Tentando acessar sua localização</item>
+    <item>Tentando acessar sua localização</item>
+    <item>Tentando usar a vibração</item>
+    <item>Tentando ler seus contatos</item>
+    <item>Tentando modificar seus contatos</item>
+    <item>Tentando ler o registro de chamadas</item>
+    <item>Tentando modificar o registro de chamadas</item>
+    <item>Tentando ler a agenda</item>
+    <item>Tentando modificar a agenda</item>
+    <item>Tentando acessar sua localização</item>
+    <item>Tentanso postar uma notificação</item>
+    <item>Tentando acessar sua localização</item>
+    <item>Tentando fazer uma ligação</item>
+    <item>Tentando ler seus SMS</item>
+    <item>Tentando escrever/modificar seus SMS</item>
+    <item>Tentando receber SMS</item>
+    <item>Tentando receber SMS</item>
+    <item>Tentando receber SMS</item>
+    <item>Tentando receber SMS</item>
+    <item>Estou a tentar enviar SMS</item>
+    <item>Tentando ler seus SMS</item>
+    <item>Tentando escrever/modificar seus SMS</item>
+    <item>Tentando modificar as configurações</item>
+    <item>Tentando desenhar na superfície</item>
+    <item>Tentando acessar as notificações</item>
+    <item>Tentando acessar a câmera</item>
+    <item>Tentando gravar áudio</item>
+    <item>Tentar reproduzir o áudio</item>
+    <item>Tentando ler a área de transferência</item>
+    <item>Tentando modificar a área de transferência</item>
+    <item>Tentando usar botões de mídia</item>
+    <item>Tentando usar o foco por áudio</item>
+    <item>Tentando usar o volume principal</item>
+    <item>Tentando usar o volume de voz</item>
+    <item>Tentando usar o volume do toque</item>
+    <item>Tentando usar o volume de mídia</item>
+    <item>Tentando usar o volume do alarme</item>
+    <item>Tentando usar o volume de notificações</item>
+    <item>Tentando usar o volume do bluetooth</item>
+    <item>Tentando manter o dispositivo ativo</item>
+    <item>Tentando acessar sua localização</item>
+    <item>Tentando acessar sua localização</item>
+    <item>Tentando ligar/desligar o Wi-Fi</item>
+    <item>Tentando ligar/desligar o Bluetooth</item>
+    <item>Tentando ligar/desligar os Dados móveis</item>
+    <item>Tentando enviar MMS</item>
+    <item>Tentando ler MMS</item>
+    <item>Tentando escrever MMS</item>
+    <item>Tentando abrir na inicialização do telefone</item>
+  </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="confirm_delete_conversation">
+    <item quantity="other">Excluir as %1$s conversas selecionadas?</item>
+    <item quantity="one">Excluir esta conversa?</item>
+  </plurals>
+</resources>

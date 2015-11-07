@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="actionbar_unread_messages">
+    <item quantity="one">%1$d mensagem não lida</item>
+    <item quantity="other">%1$d mensagens não lidas</item>
+  </plurals>
+  <plurals name="confirm_archive_conversation">
+    <item quantity="other">Arquivar estas %1$d conversas?</item>
+    <item quantity="one">Arquivar esta conversa?</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation">
+    <item quantity="other">Excluir estas %1$d conversas?</item>
+    <item quantity="one">Excluir esta conversa?</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation_with_sub">
+    <item quantity="other">Estas conversas contém itens mesclados. Excluí-los mesmo assim?</item>
+    <item quantity="one">Esta conversa contém itens mesclados. Excluí-la mesmo assim?</item>
+  </plurals>
+  <plurals name="contact_num_selected">
+    <item quantity="other">%d selecionados</item>
+    <item quantity="one">%d selecionado</item>
+  </plurals>
+  <plurals name="conversation_archived">
+    <item quantity="other">&lt;b&gt; %1$d &lt;/b&gt; arquivadas.</item>
+    <item quantity="one">&lt;b&gt; %1$d &lt;/b&gt; arquivada.</item>
+  </plurals>
+  <plurals name="conversation_deleted">
+    <item quantity="other">&lt;b&gt; %1$d &lt;/b&gt; excluídas.</item>
+    <item quantity="one">&lt;b&gt; %1$d &lt;/b&gt; excluída.</item>
+  </plurals>
+  <plurals name="conversation_folder_changed">
+    <item quantity="other">Pastas alteradas.</item>
+    <item quantity="one">Pasta alterada.</item>
+  </plurals>
+  <plurals name="conversation_muted">
+    <item quantity="other">&lt;b&gt; %1$d &lt;/b&gt; silenciada</item>
+    <item quantity="one">&lt;b&gt; %1$d &lt;/b&gt; silenciada.</item>
+  </plurals>
+  <plurals name="conversation_not_important">
+    <item quantity="other">&lt;b&gt; %1$d &lt;/b&gt;\" removidos da pasta \'importante\'\"</item>
+    <item quantity="one">&lt;b&gt; %1$d &lt;/b&gt;\" removido da pasta \'importante\'\"</item>
+  </plurals>
+  <plurals name="conversation_not_spam">
+    <item quantity="other">&lt;b&gt; %1$d &lt;/b&gt; removidos do spam</item>
+    <item quantity="one">&lt;b&gt; %1$d &lt;/b&gt; removido do spam</item>
+  </plurals>
+  <plurals name="conversation_phished">
+    <item quantity="other">&lt;b&gt; %1$d &lt;/b&gt; mensagens relatadas como spam</item>
+    <item quantity="one">&lt;b&gt; %1$d &lt;/b&gt; mensagem relatada como spam</item>
+  </plurals>
+  <plurals name="conversation_spammed">
+    <item quantity="other">&lt;b&gt; %1$d &lt;/b&gt; marcadas como spam</item>
+    <item quantity="one">&lt;b&gt; %1$d &lt;/b&gt; marcada como spam</item>
+  </plurals>
+  <plurals name="draft">
+    <item quantity="other">Rascunhos</item>
+    <item quantity="one">Rascunho</item>
+  </plurals>
+  <plurals name="empty_folder_dialog_message">
+    <item quantity="other">%1$d mensagens serão excluídas permanentemente.</item>
+    <item quantity="one">%1$d mensagem será excluída permanentemente.</item>
+  </plurals>
+  <plurals name="move_conversation">
+    <item quantity="other">Mover %1$d conversas</item>
+    <item quantity="one">Mover conversa</item>
+  </plurals>
+  <plurals name="new_incoming_messages_many">
+    <item quantity="other">Mostrar %1$d novas mensagens.</item>
+    <item quantity="one">Mostrar %1$d nova mensagem.</item>
+  </plurals>
+  <plurals name="num_selected">
+    <item quantity="other">%d selecionados</item>
+    <item quantity="one">%d selecionado</item>
+  </plurals>
+  <plurals name="show_messages_read">
+    <item quantity="other">%1$d mensagens antigas</item>
+    <item quantity="one">%1$d mensagem antiga</item>
+  </plurals>
+</resources>

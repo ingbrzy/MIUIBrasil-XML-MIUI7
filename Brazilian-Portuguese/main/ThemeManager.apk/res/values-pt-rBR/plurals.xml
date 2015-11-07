@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="theme_update_local_resource_notifaction">
+    <item quantity="other">Atualizações disponíveis para %1$d temas</item>
+    <item quantity="one">Atualização disponível para %1$d tema</item>
+  </plurals>
+  <plurals name="theme_batch_has_update_text">
+    <item quantity="other">Atualizações disponíveis para %1$d temas.</item>
+    <item quantity="one">Atualização disponível para %1$d tema.</item>
+  </plurals>
+</resources>

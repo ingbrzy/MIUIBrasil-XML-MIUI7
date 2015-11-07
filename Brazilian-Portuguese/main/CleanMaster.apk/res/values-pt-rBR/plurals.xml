@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="mins_ago">
+    <item quantity="other">%1$d min atrás</item>
+    <item quantity="one">%1$d min atrás</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">%1$d horas atrás</item>
+    <item quantity="one">%1$d hora atrás</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">%1$d dias atrás</item>
+    <item quantity="one">%1$d dia atrás</item>
+  </plurals>
+  <plurals name="people">
+    <item quantity="one">Transferido por %1$d pessoa</item>
+    <item quantity="other">Transferido por %1$d pessoas</item>
+  </plurals>
+  <plurals name="people_million">
+    <item quantity="one">Transferido por %1$d pessoa</item>
+    <item quantity="other">Transferido por %1$d pessoas</item>
+  </plurals>
+  <plurals name="million">
+    <item quantity="one">Transferido por %1$d pessoa</item>
+    <item quantity="other">Transferido por %1$d pessoas</item>
+  </plurals>
+  <plurals name="hint_similar_image_header_left">
+    <item quantity="other">%d grupos</item>
+    <item quantity="one">%d grupo</item>
+  </plurals>
+</resources>

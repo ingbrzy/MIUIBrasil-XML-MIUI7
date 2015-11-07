@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="accessibility_nfc_enabled">NFC habilitado.</string>
+  <string name="app_name">Serviço Nfc</string>
+  <string name="beam_canceled">Feixe cancelado</string>
+  <string name="beam_complete">Irradiação concluída</string>
+  <string name="beam_failed">O feixe não foi concluído</string>
+  <string name="beam_handover_not_supported">"O dispositivo receptor não suporta a transferência de arquivos grandes através do feixe."</string>
+  <string name="beam_outgoing">Enviando\u2026</string>
+  <string name="beam_progress">Feixe de entrada...</string>
+  <string name="beam_touch_to_view">Toque para visualizar</string>
+  <string name="beam_try_again">Coloque os dispositivos próximos novamente</string>
+  <string name="cancel">Cancelar</string>
+  <string name="complete_with">Completar com</string>
+  <string name="confirm_pairing">Tem certeza de que deseja parear o dispositivo Bluetooth %1$s?</string>
+  <string name="connect_headset_failed">Não foi possível conectar</string>
+  <string name="connected_headset">Conectado</string>
+  <string name="connecting_headset">Conectando</string>
+  <string name="could_not_use_app">"Não foi possível usar %1$s."</string>
+  <string name="default_pay_app_removed">Seu serviço preferencial para pagamento por toque foi removido. Selecionar outro?</string>
+  <string name="disconnected_headset">Desconectado</string>
+  <string name="disconnecting_headset">Desconectando</string>
+  <string name="failed_to_enable_bt">Não foi possível ativar o Bluetooth</string>
+  <string name="inbound_me_profile_text">Toque para adicionar essa pessoa como um contato.</string>
+  <string name="inbound_me_profile_title">Contato recebido por NFC</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Toque para fornecer suas informações de contato para essa pessoa</string>
+  <string name="outbound_me_profile_title">Interação de NFC completa</string>
+  <string name="pair_no">Não</string>
+  <string name="pair_yes">Sim</string>
+  <string name="pairing_headset">Pareando</string>
+  <string name="pairing_headset_failed">Não foi possível parear</string>
+  <string name="pay_with">Pagar com</string>
+  <string name="tap_again_to_complete">Toque novamente para concluir com %1$s</string>
+  <string name="tap_again_to_pay">Toque novamente para pagar com %1$s</string>
+  <string name="touch">Toque para iluminar</string>
+  <string name="transaction_failure">"Esta transação não pôde ser concluída com %1$s."</string>
+</resources>

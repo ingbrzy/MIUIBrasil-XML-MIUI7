@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="show_dev_countdown">
+    <item quantity="other">Você está a %1$d passos de ser um desenvolvedor voip.</item>
+    <item quantity="one">Você está a %1$d passo de ser um desenvolvedor voip.</item>
+  </plurals>
+  <plurals name="show_nondev_countdown">
+    <item quantity="other">Você está a %1$d passos de sair do modo de desenvolvedor voip.</item>
+    <item quantity="one">Você está a %1$d passo de sair do modo de desenvolvedor voip.</item>
+  </plurals>
+</resources>

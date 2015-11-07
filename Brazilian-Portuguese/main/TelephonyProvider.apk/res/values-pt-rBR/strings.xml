@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="app_label">Armazen. do Discador e Mensagens</string>
+  <string name="mms_provider_label">MMS</string>
+  <string name="mms_sms_provider_label">Mensagens</string>
+  <string name="siminfo_default_name">SIM %d</string>
+  <string name="sms_provider_label">Mensagens</string>
+</resources>

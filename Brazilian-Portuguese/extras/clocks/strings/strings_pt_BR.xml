@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<strings>
+<string name="date_time" value="EEEE, dd/MM"/>
+<string name="language" value="pt_BR"/>
+<string name="desc_date_format" value="EEEE, dd/MM"/>
+<string name="desc_time" value="'Hora' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', Toque duas vezes para mostrar o relógio'"/>
+</strings>

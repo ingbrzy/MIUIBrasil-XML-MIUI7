@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="moon_desc">
+    <item>Lua nova</item>
+    <item>Lua crescente</item>
+    <item>Quarto crescente</item>
+    <item>Crescente gibosa</item>
+    <item>Lua cheia</item>
+    <item>Minguante gibosa</item>
+    <item>Quarto minguante</item>
+    <item>Minguante crescente</item>
+    <item>Lua nova</item>
+  </string-array>
+  <string-array name="weather_type">
+    <item>Ensolarado</item>
+    <item>Nublado</item>
+    <item>Nublado</item>
+    <item>Nebuloso</item>
+    <item>Tempestade pesada</item>
+    <item>Chuva torrencial</item>
+    <item>Tempestade chuvosa</item>
+    <item>Tempestade</item>
+    <item>Chuva</item>
+    <item>Chuva forte</item>
+    <item>Chuva moderada</item>
+    <item>Chuva leve</item>
+    <item>Chuva com neve</item>
+    <item>Nevasca</item>
+    <item>Neve</item>
+    <item>Neve pesada</item>
+    <item>Neve moderada</item>
+    <item>Neve leve</item>
+    <item>Tempestade de areia forte</item>
+    <item>Tempestade de areia</item>
+    <item>Areia</item>
+    <item>Ventania</item>
+    <item>Granizo</item>
+    <item>Poeira</item>
+    <item>Neblina</item>
+    <item>Chuva congelada</item>
+    <item>Sem dados</item>
+  </string-array>
+  <string-array name="weather_indexes_uv_level">
+    <item>Fraquíssimo</item>
+    <item>Fraco</item>
+    <item>Médio</item>
+    <item>Forte</item>
+    <item>Fortíssimo</item>
+  </string-array>
+  <string-array name="wind_direction">
+    <item>Vento N</item>
+    <item>Vento NE</item>
+    <item>Vento L</item>
+    <item>Vento SE</item>
+    <item>Vento S</item>
+    <item>Vento SO</item>
+    <item>Vento O</item>
+    <item>Vento NO</item>
+  </string-array>
+</resources>

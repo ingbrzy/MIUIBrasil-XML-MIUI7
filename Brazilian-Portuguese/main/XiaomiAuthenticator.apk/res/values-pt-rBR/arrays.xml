@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="nopassword_pay_threshold">
+    <item>100</item>
+    <item>200</item>
+    <item>500</item>
+  </string-array>
+  <string-array name="type">
+    <item>Baseado em tempo</item>
+    <item>Baseado em vezes</item>
+  </string-array>
+</resources>

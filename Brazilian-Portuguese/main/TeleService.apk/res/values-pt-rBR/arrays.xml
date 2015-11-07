@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="transport_types">
+    <item>UDP</item>
+    <item>TCP</item>
+  </string-array>
+  <string-array name="ims_call_cap_types">
+    <item>Voz</item>
+    <item>Vídeo</item>
+  </string-array>
+  <string-array name="ims_call_types">
+    <item>Voz</item>
+    <item>Vídeo</item>
+    <item>Voz</item>
+  </string-array>
+  <string-array name="ims_video_cs_call_types">
+    <item>Vídeo</item>
+    <item>Voz</item>
+  </string-array>
+  <string-array name="ims_voice_cs_call_types">
+    <item>Voz</item>
+    <item>Voz</item>
+  </string-array>
+  <string-array name="cs_call_type">
+    <item>Voz</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item>LTE/WCDMA</item>
+    <item>LTE</item>
+    <item>Global</item>
+    <item>GSM/WCDMA/LTE</item>
+    <item>CDMA + LTE/EvDo</item>
+    <item>CDMA/EvDo/GSM/WCDMA</item>
+    <item>Somente EvDo</item>
+    <item>CDMA sem EvDo</item>
+    <item>CDMA/EvDo automático</item>
+    <item>GSM/WCDMA automático</item>
+    <item>Somente WCDMA</item>
+    <item>Somente GSM</item>
+    <item>GSM/WCDMA preferencial</item>
+    <item>GSM/WCDMA/LTE</item>
+    <item>CDMA + LTE/EvDo</item>
+    <item>CDMA/EvDo/GSM/WCDMA</item>
+    <item>Somente EvDo</item>
+    <item>CDMA sem EvDo</item>
+    <item>CDMA/EvDo automático</item>
+    <item>GSM/WCDMA automático</item>
+    <item>Somente WCDMA</item>
+    <item>Somente GSM</item>
+    <item>GSM/WCDMA preferencial</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>Somente rede doméstica</item>
+    <item>Automático</item>
+  </string-array>
+  <string-array name="list_language_entries">
+    <item>Inglês</item>
+    <item>Francês</item>
+    <item>Espanhol</item>
+    <item>Japonês</item>
+    <item>Coreano</item>
+    <item>Chinês</item>
+    <item>Hebraico</item>
+  </string-array>
+  <string-array name="livetalk_about_info_array">
+    <item>- Suporta números de telefone nacionais e internacionais.</item>
+    <item>"- Cada chamada usa 1Kb de dados móveis (a rede celular regular é utilizada quando você não tem uma conexão de dados móveis)."</item>
+    <item>- Sua operadora pode cobrá-lo por tarifas de roaming usando este serviço.</item>
+    <item>- Você precisa ativar a Escuta Gratuita para utilizar este serviço, caso contrário sua operadora poderá cobrá-lo quando estiver em roaming.</item>
+    <item>- Suporte do serviço: YunZhiXun, RonLianYunTongXun, LTSC</item>
+  </string-array>
+</resources>

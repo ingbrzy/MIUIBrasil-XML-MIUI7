@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="epg_week_tab">
+    <item>Dom.</item>
+    <item>Seg.</item>
+    <item>Ter.</item>
+    <item>Qua.</item>
+    <item>Qui.</item>
+    <item>Sex.</item>
+    <item>Sáb.</item>
+  </string-array>
+  <string-array name="ac_mode_array">
+    <item>Resfriando</item>
+    <item>Aquecendo</item>
+    <item>Desumidificando</item>
+    <item>Ventilador</item>
+  </string-array>
+  <string-array name="question">
+    <item>"O telefone não consegue detectar dispositivos na rede Wi-Fi?"</item>
+    <item>"Não consegue alterar os modos ou temperatura no AC?"</item>
+    <item>Mi3, Mi 2 e o Redmi suporta controle infravermelho para TV, AC e outros dispositivos?</item>
+  </string-array>
+  <string-array name="answer">
+    <item>"Seu dispositivo só pode ser pareado com uma Mi TV, Mi Box ou outros dispositivos Android que utilizem Wi-Fi."</item>
+    <item>"Certifique-se de ter selecionado o seu AC no processo de pareamento. Siga as mensagens na tela até que o pareamento seja concluído."</item>
+    <item>Infelizmente, somente o Mi 4 e Mi 4c suportam o controle infravermelho.</item>
+  </string-array>
+</resources>

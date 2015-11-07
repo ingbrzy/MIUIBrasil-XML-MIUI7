@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="achieve_condition">Concedido para:</string>
+  <string name="achieved">CONQUISTADO</string>
+  <string name="achieved_time">Ganhou em %s</string>
+  <string name="achievement_progress" formatted="false">Progresso: %d/%d</string>
+  <string name="achievements">Recompensas</string>
+  <string name="acquired_time_x">Recebido em %s</string>
+  <string name="action">Ver</string>
+  <string name="already_used">Em uso</string>
+  <string name="app_name">Mi VIP</string>
+  <string name="award_taken">Pontos coletados</string>
+  <string name="award_time">Coletados em %s</string>
+  <string name="awarded_package_is_expired">Expirado</string>
+  <string name="awarded_package_was_redeemed">Resgatado</string>
+  <string name="awards">Prêmios</string>
+  <string name="browse">Ver</string>
+  <string name="buff_enable">[ ativar ]</string>
+  <string name="copy_and_use">Resgatar</string>
+  <string name="cube_ptr_hours_ago">horas atrás</string>
+  <string name="cube_ptr_last_update">Última atualização:</string>
+  <string name="cube_ptr_minutes_ago">minutos atrás</string>
+  <string name="cube_ptr_pull_down">Puxe para baixo</string>
+  <string name="cube_ptr_pull_down_to_refresh">Puxe para baixo para atualizar</string>
+  <string name="cube_ptr_refresh_complete">Atualizado.</string>
+  <string name="cube_ptr_refreshing">Atualizando\u2026</string>
+  <string name="cube_ptr_release_to_refresh">Solte para atualizar</string>
+  <string name="cube_ptr_seconds_ago">segundos atrás</string>
+  <string name="daily_task">Desafios diários</string>
+  <string name="device_answer_phone_times">Chamadas atendidas</string>
+  <string name="device_charge_times">Vezes carregado</string>
+  <string name="device_unlock_screen_times">Tela desbloqueada</string>
+  <string name="device_usage_data">Estatísticas de uso do telefone</string>
+  <string name="download_message">Fazer o download de %s?</string>
+  <string name="download_title">Fazer o download deste app?</string>
+  <string name="downloading">Transferindo&#8230;</string>
+  <string name="exp_buff">+%s%% pontos</string>
+  <string name="experience">Pts</string>
+  <string name="expired">Expirado</string>
+  <string name="fail_reach_server">"Não foi possível conectar-se à rede"</string>
+  <string name="giveup">Desistir</string>
+  <string name="go">Ver progresso</string>
+  <string name="hello">Olá</string>
+  <string name="in_progress">Solicitando\u2026</string>
+  <string name="invalid_json">Algo deu errado</string>
+  <string name="level">Nível</string>
+  <string name="level_detail">Limite diário para desafio: %d</string>
+  <string name="level_exp_value" formatted="false">Pontos: %d/%d</string>
+  <string name="level_info_format" formatted="false">\"Nível %d %d/%d
+%s\"</string>
+  <string name="limit_task">Desafios limitados</string>
+  <string name="my_award">Meus prêmios</string>
+  <string name="no_achievements">Vazio.</string>
+  <string name="no_app">Instale o app primeiro</string>
+  <string name="no_award">Nenhum prêmio</string>
+  <string name="no_network">"Não foi possível conectar-se à rede"</string>
+  <string name="no_task">Todos os desafios foram concluídos</string>
+  <string name="passive_task">Desafios em segundo plano</string>
+  <string name="privilege">Privilégios</string>
+  <string name="promote">Atualizar tarefas</string>
+  <string name="query_level_fail">"Não foi possível obter informações"</string>
+  <string name="query_user_tasks_fail">"Não foi possível obter informações do desafio"</string>
+  <string name="redeem">Resgatar</string>
+  <string name="start_activity_error">"Falha ao iniciar o app: %s"</string>
+  <string name="take_awarded_package">Resgatar</string>
+  <string name="take_awarded_package_failed">"Não foi possível resgatar oferta. Aguarde de um a dois minutos e tente novamente."</string>
+  <string name="task">Desafios</string>
+  <string name="task_begin">Em progresso\u2026</string>
+  <string name="task_completed">Concluído</string>
+  <string name="task_done">Concluído</string>
+  <string name="task_limit">Nenhum desafio para hoje. Vejo você amanhã!</string>
+  <string name="task_not_completed">Incompleto</string>
+  <string name="task_ongoing">Em progresso</string>
+  <string name="task_score">%d pontos</string>
+  <string name="task_select_title">Selecione um desafio</string>
+  <string name="task_start">Iniciar</string>
+  <string name="task_take_award">Ganhe prêmios</string>
+  <string name="unachieved">DISPONÍVEL</string>
+  <string name="unlimited_task">Desafios especiais</string>
+  <string name="upgraded">Conta atualizada!</string>
+  <string name="use">Usar</string>
+  <string name="use_immediately">Usar agora</string>
+  <string name="validity">Expira em %s</string>
+  <string name="validity_unknown">Expiração desconhecida</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="ble_profile_mi_band">
+    <item>Vibrar ao tocar</item>
+    <item>Vibrar ao receber mensagens</item>
+    <item>Vibrar com o alarme</item>
+  </string-array>
+  <string-array name="ble_profile_mi_key">
+    <item>Tirar foto</item>
+    <item>Localizar telefone</item>
+    <item>Localizar Mi-key</item>
+  </string-array>
+  <string-array name="ble_packages">
+    <item></item>
+    <item>com.xiaomi.hm.health</item>
+    <item></item>
+  </string-array>
+  <string-array name="ble_package_names">
+    <item></item>
+    <item>Mi Fit</item>
+    <item></item>
+  </string-array>
+</resources>

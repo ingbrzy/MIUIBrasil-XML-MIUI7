@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="hints_traffic_enable_title">
+    <item quantity="other">Não rastreando uso de dados para %d apps</item>
+    <item quantity="one">Não rastreando uso de dados para %d app</item>
+  </plurals>
+  <plurals name="hints_traffic_disable_title">
+    <item quantity="other">Rastreamento de uso de dados para %d apps</item>
+    <item quantity="one">Rastreamento de uso de dados para %d app</item>
+  </plurals>
+  <plurals name="hints_traffic_saving_optimized">
+    <item quantity="other">%d apps otimizados</item>
+    <item quantity="one">%d app otimizado</item>
+  </plurals>
+  <plurals name="hints_traffic_saving_need_optimize">
+    <item quantity="other">%d apps podem ser otimizados</item>
+    <item quantity="one">%d app pode ser otimizado</item>
+  </plurals>
+  <plurals name="hints_traffic_saving_enable_title">
+    <item quantity="other">%d apps usando a Economia de dados</item>
+    <item quantity="one">%d app usando a Economia de dados</item>
+  </plurals>
+  <plurals name="hints_traffic_saving_disable_title">
+    <item quantity="other">%d apps não usando a Economia de dados</item>
+    <item quantity="one">%d app não usando a Economia de dados</item>
+  </plurals>
+  <plurals name="hints_install_apps_interval">
+    <item quantity="other">Usado há %d dias</item>
+    <item quantity="one">Usado ontem</item>
+  </plurals>
+  <plurals name="search_app_count_txt">
+    <item quantity="other">Pesquisar %d apps</item>
+    <item quantity="one">Pesquisar %d app</item>
+  </plurals>
+  <plurals name="hints_roaming_enable_title">
+    <item quantity="other">%d apps podem usar os dados móveis</item>
+    <item quantity="one">%d app pode usar os dados móveis</item>
+  </plurals>
+  <plurals name="hints_roaming_disable_title">
+    <item quantity="other">"%d apps não podem usar os dados móveis"</item>
+    <item quantity="one">"%d app não pode usar os dados móveis"</item>
+  </plurals>
+  <plurals name="hints_roaming_found_app_count_title">
+    <item quantity="other">%d apps encontrados</item>
+    <item quantity="one">%d app encontrado</item>
+  </plurals>
+</resources>

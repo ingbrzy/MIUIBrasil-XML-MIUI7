@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="agree">Aceitar</string>
+  <string name="desc_fingerprint">Use sua impressão digital para desbloquear o dispositivo, verificar transações no Mi Pay, ou para fazer login em apps e serviços.</string>
+  <string name="disagree">Cancelar</string>
+  <string name="ime_privacy_policy">Política de Privacidade para o teclado selecionado</string>
+  <string name="ime_privacy_policy_no_network">Nenhuma conexão de rede. Veja a Política de Privacidade para este teclado em %s</string>
+  <string name="input_method_category">"Selecione o teclado padrão que você usará ao escrever e-mails, notas, e praticamente qualquer outra coisa. Observe que é possível instalar teclados de terceiros mais tarde."</string>
+  <string name="input_method_setting">Selecione o teclado padrão</string>
+  <string name="install_preinstall_app">Carregando apps&#8230;</string>
+  <string name="locale_picker_title">Selecionar localização</string>
+  <string name="miui_privacy_policy_no_network">"Você não está conectado à internet. Veja a Política de Privacidade em %s."</string>
+  <string name="miui_terms_no_network">"Não há uma conexão com a internet disponível. Veja os Termos de Serviço em %s."</string>
+  <string name="multisim_settings_category">Configurações do cartão SIM</string>
+  <string name="multisim_settings_title">2 cartões SIM detectados</string>
+  <string name="network_access_warning">Você precisa de uma conexão com a internet para ativar os Mi Services e o Encontrar dispositivo.</string>
+  <string name="next">Avançar</string>
+  <string name="next_fingerprint">Avançar</string>
+  <string name="other_settings">Configurações adicionais</string>
+  <string name="other_settings_location">Localização</string>
+  <string name="other_settings_location_summary">Permitir que apps acessem sua localização</string>
+  <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
+  <string name="other_settings_user_experience_summary">Ajude a melhorar a MIUI enviando dados anônimos de uso (%s)</string>
+  <string name="other_settings_user_experience_summary1">Política de Privacidade</string>
+  <string name="page_layout_label">Ajuste o tamanho do texto e layout de sua Tela inicial, aba de notificações, teclado de discagem e mais.</string>
+  <string name="page_layout_title">Layout do sistema</string>
+  <string name="pref_title_data_slot">Cartão SIM para internet</string>
+  <string name="pref_title_voice_slot">Cartão SIM para chamadas</string>
+  <string name="privacy_policy">Política de Privacidade</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Reiniciar</string>
+  <string name="provision_inputmethod_policy_description">\"
+Ver a Política de Privacidade do teclado selecionado.\"</string>
+  <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
+  <string name="setting_locale">Configurando local&#8230;</string>
+  <string name="shut_down">Desligar</string>
+  <string name="sim_card_detecting">Verificando o cartão SIM&#8230;</string>
+  <string name="sim_card_detecting_title">Verificação de cartão SIM</string>
+  <string name="sim_card_detection">Insira um cartão SIM</string>
+  <string name="sim_card_detection_info">Para inserir seu cartão SIM, leia as instruções que acompanham o seu dispositivo.</string>
+  <string name="sim_dectection_next">Continuar</string>
+  <string name="sim_redetection">Verificar novamente</string>
+  <string name="skip_underline">&lt;u&gt;Pular esta etapa&lt;/u&gt;</string>
+  <string name="summary_not_set">Não definido</string>
+  <string name="summary_sim_card">Cartão %1$d</string>
+  <string name="summary_sim_card_with_operator">Cartão %1$d: %2$s</string>
+  <string name="terms_of_use">Termos e Condições</string>
+  <string name="terms_of_use_label">\"Sua privacidade é muito importante para nós. Leia os Termos de Serviço e a Política de Privacidade para entender o que coletamos, seu uso, e opções disponíveis para você.
+
+É necessário aceitar os Termos de Serviço e Política de Privacidade antes de usar a MIUI.\"</string>
+  <string name="title_congratulation">"Você está pronto para começar!"</string>
+  <string name="title_fingerprint">Adicionar impressão digital</string>
+  <string name="user_agreement">Termos de Serviço</string>
+  <string name="welcome">Bem-vindo</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="app_install_count">
+    <item quantity="other">%1$s downloads</item>
+    <item quantity="one">%1$s download</item>
+  </plurals>
+  <plurals name="app_user_used">
+    <item quantity="other">%1$s usuários</item>
+    <item quantity="one">%1$s usuário</item>
+  </plurals>
+  <plurals name="match_brand_selection_des">
+    <item quantity="other">%d marcas disponíveis</item>
+    <item quantity="one">1 marca disponível</item>
+  </plurals>
+</resources>

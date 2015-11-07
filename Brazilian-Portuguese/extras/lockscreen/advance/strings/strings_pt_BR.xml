@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<strings>
+    <string name="date_format" value="EEEE, dd/MM/yyyy" />
+    <string name="emergency_call" value="Chamada de emergência"/>
+</strings>

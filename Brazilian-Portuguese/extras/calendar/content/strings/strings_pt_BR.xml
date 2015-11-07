@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<strings>
+    <string name="MON" value="SEG"/>
+    <string name="TUE" value="TER"/>
+    <string name="WED" value="QUA"/>
+    <string name="THU" value="QUI"/>
+    <string name="FRI" value="SEX"/>
+    <string name="SAT" value="SÁB"/>
+    <string name="SUN" value="DOM"/>
+    <string name="language" value="pt_BR"/>
+</strings>

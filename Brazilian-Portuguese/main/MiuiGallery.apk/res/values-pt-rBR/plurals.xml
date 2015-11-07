@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="confirm_delete_album">
+    <item quantity="other">Excluir %1$s álbuns (%2$s no total)?</item>
+    <item quantity="one">Excluir %1$s álbum (%2$s no total)?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+    <item quantity="one">&lt;Data&gt;O item selecionado inclui também foto ou vídeo na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; item no dispositivo e na Mi Cloud?&lt;/Data&gt;</item>
+    <item quantity="other">&lt;Data&gt;Os itens selecionados incluem também fotos ou vídeos na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; itens no dispositivo e na Mi Cloud?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+    <item quantity="other">&lt;Data&gt;Os itens selecionados incluem também fotos na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; itens no dispositivo e na Mi Cloud?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;O item selecionado inclui também uma foto na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; item no dispositivo e na Mi Cloud?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+    <item quantity="other">&lt;Data&gt;Os itens selecionados incluem também fotos na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; itens no dispositivo e na Mi Cloud?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;O item selecionado inclui também um vídeo na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; item no dispositivo e na Mi Cloud?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+    <item quantity="one">&lt;Data&gt;O item selecionado são foto ou vídeo da Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; item na Mi Cloud?&lt;/Data&gt;</item>
+    <item quantity="other">&lt;Data&gt;Os itens selecionados são fotos ou vídeos da Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; itens na Mi Cloud?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_image_from_homepage">
+    <item quantity="other">&lt;Data&gt;Os itens selecionados são fotos na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; fotos na Mi Cloud?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;O item selecionado é uma foto na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; foto na Mi Cloud?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_video_from_homepage">
+    <item quantity="other">&lt;Data&gt;Os itens selecionados são vídeos na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; vídeos na Mi Cloud?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;O item selecionado é um vídeo na Mi Cloud, excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; vídeo na Mi Cloud?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_image_video">
+    <item quantity="one">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; item deste álbum?&lt;/Data&gt;</item>
+    <item quantity="other">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; itens deste álbum?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_local_image_video">
+    <item quantity="one">Excluir %s item?</item>
+    <item quantity="other">Excluir %s itens?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_image">
+    <item quantity="other">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; fotos deste álbum?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; foto deste álbum?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_local_image">
+    <item quantity="other">Excluir %s fotos?</item>
+    <item quantity="one">Excluir %s foto?</item>
+  </plurals>
+  <plurals name="confirm_delete_has_cloud_video">
+    <item quantity="other">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; vídeos deste álbum?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; vídeo deste álbum?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_has_local_video">
+    <item quantity="other">Excluir %s vídeos?</item>
+    <item quantity="one">Excluir %s vídeo?</item>
+  </plurals>
+  <plurals name="confirm_delete_video_from_many_albums">
+    <item quantity="other">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%1$d vídeos&amp;lt;/xliff:g&gt; de %2$d álbuns?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%1$d vídeo&amp;lt;/xliff:g&gt; de %2$d álbuns?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="confirm_delete_image_from_many_albums">
+    <item quantity="other">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%1$d imagens&amp;lt;/xliff:g&gt; de %2$d álbuns?&lt;/Data&gt;</item>
+    <item quantity="one">&lt;Data&gt;Excluir &amp;lt;xliff:g id=ITEM&gt;%1$d imagem&amp;lt;/xliff:g&gt; de %2$d álbuns?&lt;/Data&gt;</item>
+  </plurals>
+  <plurals name="number_of_items_selected">
+    <item quantity="other">%1$d selecionados</item>
+    <item quantity="one">%1$d selecionado</item>
+  </plurals>
+  <plurals name="number_of_pictures">
+    <item quantity="other">%1$d</item>
+    <item quantity="one">%1$d</item>
+  </plurals>
+  <plurals name="how_many_pics">
+    <item quantity="other">%d fotos</item>
+    <item quantity="one">%d foto</item>
+  </plurals>
+  <plurals name="how_many_videos">
+    <item quantity="other">%d vídeos</item>
+    <item quantity="one">%d vídeo</item>
+  </plurals>
+  <plurals name="how_many_sub_folders">
+    <item quantity="other">%d pastas</item>
+    <item quantity="one">%d pasta</item>
+  </plurals>
+  <plurals name="message_no_delete_access_with_count">
+    <item quantity="other">"Você não tem permissão para excluir %d arquivos selecionados."</item>
+    <item quantity="one">"Você não tem permissão para excluir %d arquivo selecionado."</item>
+  </plurals>
+  <plurals name="pick_with_limited_upper_bound_title">
+    <item quantity="other">Você pode selecionar %d itens</item>
+    <item quantity="one">Você pode selecionar %d item</item>
+  </plurals>
+  <plurals name="number_of_images">
+    <item quantity="other">%1$d fotos</item>
+    <item quantity="one">%1$d foto</item>
+  </plurals>
+  <plurals name="number_of_items">
+    <item quantity="other">%1$d itens</item>
+    <item quantity="one">%1$d item</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%d segundos</item>
+    <item quantity="one">1 segundo</item>
+  </plurals>
+  <plurals name="ignore_faces_alert_msg">
+    <item quantity="other">"Não mostrar estes rostos?"</item>
+    <item quantity="one">"Não mostrar este rosto?"</item>
+  </plurals>
+  <plurals name="more_face">
+    <item quantity="other">%1$s fotos de %2$s</item>
+    <item quantity="one">%1$s foto de %2$s</item>
+  </plurals>
+  <plurals name="baby_album_sharer_recommand_old_pictures">
+    <item quantity="other">%1$d fotos de %2$s a serem adicionadas</item>
+    <item quantity="one">%1$d foto de %2$s a ser adicionada</item>
+  </plurals>
+  <plurals name="baby_album_sharer_recommand_new_pictures">
+    <item quantity="other">%1$d fotos de %2$s a serem adicionadas</item>
+    <item quantity="one">%1$d foto de %2$s a ser adicionada</item>
+  </plurals>
+  <plurals name="baby_age_subtitle_year">
+    <item quantity="other">"%1$d anos "</item>
+    <item quantity="one">"%1$d ano "</item>
+  </plurals>
+  <plurals name="baby_age_subtitle_month">
+    <item quantity="other">"%1$d meses "</item>
+    <item quantity="one">"%1$d mês "</item>
+  </plurals>
+  <plurals name="baby_age_subtitle_day">
+    <item quantity="other">%1$d dias</item>
+    <item quantity="one">%1$d dia</item>
+  </plurals>
+  <plurals name="baby_album_share_user_count_tip">
+    <item quantity="other">%1$d seguidores</item>
+    <item quantity="one">%1$d seguidor</item>
+  </plurals>
+  <plurals name="number_of_images_to_upload">
+    <item quantity="other">%1$d fotos aguardando sincronização</item>
+    <item quantity="one">1 foto aguardando sincronização</item>
+  </plurals>
+  <plurals name="number_of_videos_to_upload">
+    <item quantity="other">%1$d vídeos aguardando sincronização</item>
+    <item quantity="one">1 vídeo</item>
+  </plurals>
+  <plurals name="number_of_images_and_videos_to_upload">
+    <item quantity="other">%1$d itens aguardando sincronização</item>
+    <item quantity="one">1 item aguardando sincronização</item>
+  </plurals>
+  <plurals name="number_of_uploading_images">
+    <item quantity="other">Sincronizando %1$d fotos&#8230;</item>
+    <item quantity="one">Sincronizando 1 foto&#8230;</item>
+  </plurals>
+  <plurals name="number_of_uploading_videos">
+    <item quantity="other">Sincronizando %1$d vídeos&#8230;</item>
+    <item quantity="one">Sincronizando 1 vídeo&#8230;</item>
+  </plurals>
+  <plurals name="number_of_uploading_images_and_videos">
+    <item quantity="other">Sincronizando %1$d itens&#8230;</item>
+    <item quantity="one">Sincronizando 1 item&#8230;</item>
+  </plurals>
+</resources>

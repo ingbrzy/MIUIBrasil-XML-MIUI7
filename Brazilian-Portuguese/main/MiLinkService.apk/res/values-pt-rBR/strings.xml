@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serviço UniPlay</string>
+    <string name="notification_rc_desc">Você pode utilizar seu controle remoto Xiaomi para controlar seu Mi Box ou TV</string>
+    <string name="notification_rc_title">Controle remoto Xiaomi</string>
+    <string name="service_name">Serviço UniPlay</string>
+</resources>

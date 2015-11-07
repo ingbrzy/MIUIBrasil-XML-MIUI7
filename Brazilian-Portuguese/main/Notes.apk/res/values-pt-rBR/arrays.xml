@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="contact_entries">
+    <item>Nome</item>
+    <item>Apelido</item>
+    <item>Telefone</item>
+    <item>E-mail</item>
+    <item>Organização</item>
+    <item>IM</item>
+    <item>Telefone SIP</item>
+    <item>Aniversário</item>
+    <item>Website</item>
+    <item>Endereço</item>
+    <item>Nota</item>
+  </string-array>
+  <string-array name="font_size_names">
+    <item>Pequeno</item>
+    <item>Padrão</item>
+    <item>Grande</item>
+    <item>Enorme</item>
+  </string-array>
+  <string-array name="welcome_notes_content">
+    <item>\"Toque para criar uma nota
+\"</item>
+    <item>\"Para adicionar uma imagem ou exibir caixas de seleção, toque no botão abaixo
+\"</item>
+    <item>\"Pressione e segure uma nota para fixá-la, movê-la ou excluí-la
+\"</item>
+    <item>\"E outros ótimos recursos!
+  - Sincronize com a Mi Cloud
+  - Defina lembretes
+
+Para mais informações, acesse
+http://www.miui.com/forum.php?lang=1
+\"</item>
+  </string-array>
+</resources>

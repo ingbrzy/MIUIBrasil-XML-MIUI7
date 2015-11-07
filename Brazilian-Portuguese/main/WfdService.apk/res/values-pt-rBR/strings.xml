@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="app_name">Serviço WFD</string>
+  <string name="perm_desc">Access Qualcomm Wi-Fi Display Stack APIs</string>
+  <string name="perm_label">QC Wi-Fi Display Stack</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string-array name="server_list_entries">
+    <item>Servidor de testes</item>
+    <item>Servidor online</item>
+  </string-array>
+</resources>

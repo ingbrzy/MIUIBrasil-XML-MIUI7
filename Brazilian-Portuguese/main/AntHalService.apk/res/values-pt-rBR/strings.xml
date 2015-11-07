@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <string name="app_name">Serviço ANT HAL</string>
+  <string name="permdesc_ant">Permite que o aplicativo comunique-se com dispositivos ANT usando o serviço de proxy. Aplicativos maliciosos podem obter ou transmitir informações para dispositivos ANT sem o seu conhecimento.</string>
+  <string name="permdesc_antAdmin">Permite que o aplicativo configure diretamente o dispositivo ANT usando o serviço de proxy. Aplicativos maliciosos podem prevenir que outros aplicativos conectem-se a este dispositivo.</string>
+  <string name="permdesc_antradio">Permite que o aplicativo configure diretamente o rádio ANT. Aplicativos maliciosos podem prevenir que o Serviço de Rádio ANT forneça funcionalidades ANT em outros aplicativos.</string>
+  <string name="permlab_ant">usar interface do rádio ANT</string>
+  <string name="permlab_antAdmin">controlar configuração do rádio ANT</string>
+  <string name="permlab_antradio">usar hardware ANT</string>
+</resources>

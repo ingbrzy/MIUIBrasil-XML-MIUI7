@@ -1,0 +1,5 @@
+<strings>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+    <string name="slider_text" value="Deslize para cima" />
+    <string name="snooze_message" value="Soneca por %d min" />
+</strings>

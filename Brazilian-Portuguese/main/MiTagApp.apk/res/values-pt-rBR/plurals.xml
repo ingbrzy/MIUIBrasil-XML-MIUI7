@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="tags_description">
+    <item quantity="other">apps</item>
+    <item quantity="one">app</item>
+  </plurals>
+  <plurals name="play_description">
+    <item quantity="other">tarefas</item>
+    <item quantity="one">tarefa</item>
+  </plurals>
+  <plurals name="history_description">
+    <item quantity="other">gravações</item>
+    <item quantity="one">gravação</item>
+  </plurals>
+  <plurals name="select_n_item">
+    <item quantity="other">%d selecionados</item>
+    <item quantity="one">%d selecionado</item>
+  </plurals>
+</resources>

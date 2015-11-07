@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="status_bar_accessibility_recent_apps">
+    <item quantity="other">%d apps recentes</item>
+    <item quantity="one">1 app recente</item>
+  </plurals>
+  <plurals name="disable_notification_confirm_title">
+    <item quantity="other">"Ocultar notificações destes %d apps?"</item>
+    <item quantity="one">"Ocultar notificações deste app?"</item>
+  </plurals>
+</resources>

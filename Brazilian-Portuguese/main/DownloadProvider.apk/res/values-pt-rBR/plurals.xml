@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
+<resources>
+  <plurals name="notif_summary_active">
+    <item quantity="other">%d arquivos em download</item>
+    <item quantity="one">1 arquivo em download</item>
+  </plurals>
+  <plurals name="notif_summary_waiting">
+    <item quantity="other">%d arquivos em espera</item>
+    <item quantity="one">1 arquivo em espera</item>
+  </plurals>
+</resources>
