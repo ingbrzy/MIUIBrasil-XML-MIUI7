@@ -4,7 +4,7 @@ Repository for pt-br translations of MIUI 7
 
 This translation is made and maintained by MIUI Brasil Official Fansite (http://www.miuirom.com.br) Any unauthorized use of the work contained here is prohibited.
 
-If you want to use our translation in our project, please contact us at contato@miuirom.com.br
+If you want to use our translation in your own project, please contact us at contato@miuirom.com.br
 
 Any ROM found using this translation without authorization will be shut down by DMCA.
 
