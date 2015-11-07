@@ -153,9 +153,6 @@
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Desativado</string>
-  <string name="pref_camera_hfr_value_2x">60</string>
-  <string name="pref_camera_hfr_value_3x">90</string>
-  <string name="pref_camera_hfr_value_4x">120</string>
   <string name="pref_camera_histogram_entry_disable">Desativar</string>
   <string name="pref_camera_histogram_entry_enable">Ativar</string>
   <string name="pref_camera_iso_entry_auto">Automático</string>
@@ -166,8 +163,6 @@
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
   <string name="pref_camera_iso_title">Selecionar ISO</string>
-  <string name="pref_camera_iso_value_iso100">ISO100</string>
-  <string name="pref_camera_iso_value_iso1600">ISO1600</string>
   <string name="pref_camera_jpegquality_entry_high">Alta</string>
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
   <string name="pref_camera_jpegquality_entry_normal">Padrão</string>

@@ -683,7 +683,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="other_settings">Outras configurações de chamada</string>
   <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Roaming internacional</string>
-  <string name="password">Senha</string>
   <string name="password_changed">Senha alterada</string>
   <string name="password_title">Senha</string>
   <string name="payphone">Telefone público</string>
@@ -716,7 +715,6 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta\"</
   <string name="place_a_call2">SIM 2</string>
   <string name="place_a_call3">SIM 3</string>
   <string name="please_choose_the_duration">Selecione uma duração.</string>
-  <string name="port">Porta</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desativado</string>
   <string name="preference_category_ringtone">Toque e vibração</string>
@@ -983,7 +981,6 @@ Seu cartão SIM será apagado após outra tentativa incorreta.\"</string>
   <string name="title_purchase">Recarregar</string>
   <string name="title_rates">Taxas</string>
   <string name="title_user_config">Ativar cartão SIM</string>
-  <string name="transport">Protocolo</string>
   <string name="transport_title">Tipo de transporte</string>
   <string name="tty_mode_entries_full">TTY Completo</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>

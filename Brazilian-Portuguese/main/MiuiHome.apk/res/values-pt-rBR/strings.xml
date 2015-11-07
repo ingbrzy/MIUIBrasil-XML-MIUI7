@@ -133,7 +133,6 @@
   <string name="guide_install_app_msg">"O app não está instalado em seu dispositivo. Pesquisá-lo e instalá-lo agora?"</string>
   <string name="guide_install_app_title">Pesquisar e instalar app?</string>
   <string name="guide_tips_editing_mode">Toque &amp; segure para pegar um widget</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="image_too_small_message">"A imagem original não é grande o suficiente"</string>
   <string name="install">Instalar</string>
   <string name="invalid_contact_shortcut">Contato inválido</string>

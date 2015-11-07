@@ -357,7 +357,6 @@
   <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
   <string name="forward_download_failed_ticker">"Não foi possível encaminhar todos os anexos."</string>
   <string name="forward_download_failed_title">Anexo não encaminhado</string>
-  <string name="forward_subject_label">Enc:</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de excluir</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Tradução do Fansite Oficial MIUI Brasil (MIUIROM.com.br). Proibida a utilização sem autorização de seus criadores.-->
-<resources>
-  <string-array name="absent_num">
-    <item>ABSENT NUMBER</item>
-    <item>ABSENTNUMBER</item>
-  </string-array>
-</resources>
